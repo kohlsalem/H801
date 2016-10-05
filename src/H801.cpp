@@ -10,9 +10,14 @@
 byte brightnes = 0;
 
 // original color to come up
+//byte base_red = 100;
+//byte base_green = 55;
+//byte base_blue = 20;
+
+//Theke
 byte base_red = 100;
-byte base_green = 55;
-byte base_blue = 20;
+byte base_green = 74;
+byte base_blue = 24;
 
 int target_red = 0;
 int target_green = 0;
